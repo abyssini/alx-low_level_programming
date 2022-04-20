@@ -43,5 +43,5 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
 		r[i] = r[j];
 		r[j] = add;
 	}
-	return (r)
+	return (r);
 }
