@@ -1,1 +1,1 @@
-readme file fore 0x0D-preprocessor
+readme file for 0x0D-preprocessor
